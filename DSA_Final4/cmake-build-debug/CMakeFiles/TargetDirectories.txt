@@ -1,0 +1,3 @@
+C:/Users/LENOVO/CLionProjects/DSA_Final4/cmake-build-debug/CMakeFiles/DSA_Final4.dir
+C:/Users/LENOVO/CLionProjects/DSA_Final4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/CLionProjects/DSA_Final4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
